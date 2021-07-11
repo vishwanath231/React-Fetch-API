@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "name":"vishwanath",
+        "city":"trichy"
+    },
+    {
+        "id":2,
+        "name":"venkat",
+        "city":"madurai"
+    },
+    {
+        "id":3,
+        "name":"akash",
+        "city":"chennai"
+    }
+]
